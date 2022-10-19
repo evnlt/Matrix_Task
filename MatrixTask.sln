@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{ADCAFF29-0629-4678-8468-9C1528B74B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTaskLib", "MatrixTaskLib\MatrixTaskLib.csproj", "{4F2A6B57-2C0F-4B34-B2FD-2B6481BB967F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCAFF29-0629-4678-8468-9C1528B74B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCAFF29-0629-4678-8468-9C1528B74B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCAFF29-0629-4678-8468-9C1528B74B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCAFF29-0629-4678-8468-9C1528B74B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2A6B57-2C0F-4B34-B2FD-2B6481BB967F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2A6B57-2C0F-4B34-B2FD-2B6481BB967F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2A6B57-2C0F-4B34-B2FD-2B6481BB967F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2A6B57-2C0F-4B34-B2FD-2B6481BB967F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDAFA5F7-56C8-4C1B-9A17-D407CDC51ADA}
+	EndGlobalSection
+EndGlobal

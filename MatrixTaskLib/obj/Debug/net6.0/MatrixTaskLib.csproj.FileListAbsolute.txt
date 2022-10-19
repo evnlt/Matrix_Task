@@ -1,0 +1,12 @@
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\bin\Debug\net6.0\MatrixTaskLib.deps.json
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\bin\Debug\net6.0\MatrixTaskLib.dll
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\bin\Debug\net6.0\MatrixTaskLib.pdb
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\MatrixTaskLib.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\MatrixTaskLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\MatrixTaskLib.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\MatrixTaskLib.AssemblyInfo.cs
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\MatrixTaskLib.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\MatrixTaskLib.dll
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\refint\MatrixTaskLib.dll
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\MatrixTaskLib.pdb
+C:\Users\Иван\source\repos\MatrixTask\MatrixTaskLib\obj\Debug\net6.0\ref\MatrixTaskLib.dll
